@@ -13,7 +13,4 @@ classes
 dataSources
 .ideaDataSources
 */target/**
-.mvn
-.mvn/**
-.mvn/wrapper
-.mvn/wrapper/**
+/.mvn/
