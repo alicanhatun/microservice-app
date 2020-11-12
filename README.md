@@ -1,4 +1,4 @@
-Spring Cloud Microservice Sample
+# **Spring Cloud Microservice Sample**
 
-# Proje Genel Yapisi
+## Proje Genel Yapisi
 ![](https://github.com/alicanhatun/microservice-app/blob/master/docs/arch.png)
